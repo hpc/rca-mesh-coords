@@ -1,0 +1,10 @@
+##########
+ Building
+##########
+module load rca
+make
+
+#########
+ Running
+#########
+aprun -n <X> -N <Y> ./rca-mesh-coords
