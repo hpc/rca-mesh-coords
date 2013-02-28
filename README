@@ -8,3 +8,8 @@ make
  Running
 #########
 aprun -n <X> -N <Y> ./rca-mesh-coords
+
+###########
+ Tested On
+###########
+- Cray XE6
